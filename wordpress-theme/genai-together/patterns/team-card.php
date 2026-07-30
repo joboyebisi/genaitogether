@@ -1,0 +1,4 @@
+<?php
+/** Title: Team member card */
+?>
+<!-- wp:group {"style":{"border":{"radius":"16px","width":"1px"},"spacing":{"padding":{"top":"0","bottom":"24px","left":"24px","right":"24px"}}},"layout":{"type":"constrained"}} --><div class="wp-block-group" style="border-width:1px;border-radius:16px;padding-top:0;padding-right:24px;padding-bottom:24px;padding-left:24px"><!-- wp:image {"sizeSlug":"large"} --><figure class="wp-block-image size-large"><img src="" alt=""/></figure><!-- /wp:image --><!-- wp:heading {"level":3} --><h3>Add name</h3><!-- /wp:heading --><!-- wp:paragraph --><p><strong>Add role</strong></p><!-- /wp:paragraph --><!-- wp:paragraph --><p>Add short biography.</p><!-- /wp:paragraph --><!-- wp:buttons --><div class="wp-block-buttons"><!-- wp:button --><div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="#">Contact</a></div><!-- /wp:button --></div><!-- /wp:buttons --></div><!-- /wp:group -->

@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {"contentSize":"760px","wideSize":"1180px"},
+    "color": {"palette":[{"slug":"deep-teal","color":"#155E63","name":"Deep teal"},{"slug":"teal","color":"#11828A","name":"Teal"},{"slug":"mint","color":"#A8D2CA","name":"Mint"},{"slug":"ink","color":"#173B40","name":"Ink"},{"slug":"white","color":"#FFFFFF","name":"White"}]},
+    "typography": {"fontSizes":[{"slug":"small","size":"0.9rem","name":"Small"},{"slug":"medium","size":"1.1rem","name":"Medium"},{"slug":"large","size":"1.35rem","name":"Large"},{"slug":"xx-large","size":"clamp(3rem,6vw,6rem)","name":"Hero"}]},
+    "spacing": {"spacingSizes":[{"slug":"30","size":"1rem","name":"Small"},{"slug":"50","size":"2rem","name":"Medium"},{"slug":"70","size":"4rem","name":"Large"}]}
+  },
+  "styles": {"color":{"text":"#173B40","background":"#FFFFFF"},"typography":{"fontFamily":"Arial, sans-serif","lineHeight":"1.6"},"elements":{"link":{"color":{"text":"#155E63"}},"button":{"color":{"text":"#FFFFFF","background":"#11828A"},"border":{"radius":"8px"}}}},
+  "templateParts":[{"name":"header","title":"Header","area":"header"},{"name":"footer","title":"Footer","area":"footer"}]
+}
